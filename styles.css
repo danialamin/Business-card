@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.c1 {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 50vw;
+    padding: 50px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*
+Challenge:
+1. Give the card div a class (name it "card")
+2. Select the card class and give it a dotted blue border
+3. Add 20 pixels of padding on all sides of the card
+*/
